@@ -1,6 +1,6 @@
 # Curso de Git e GitHub
 
-***Curso de Git e GitHub***, criado pelo *Professor Gustavo Gunabara*.
+**Curso de Git e GitHub**, criado pelo *Professor Gustavo Gunabara*.
 
 O que é Git?
 
