@@ -13,9 +13,9 @@
 **GitHub** é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
 ***
 
-**O que aprendi nesse curso?**
+**O que aprendi nesse curso?** :pencil2:
 
-- [x] O que é Git e GitHub
+- [x] O que é Git e GitHub 
 - [x] Como funciona e fazendo versonamentos
 - [x] Usar Issues
 - [x] O que é Git e GitHub
