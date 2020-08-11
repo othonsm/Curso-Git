@@ -23,6 +23,6 @@
 - [x] Git Branches
 - [x] Git Pages (versionamento de uma pagina)
 
-Ministrado pelo professor **Gustavo Guanabara**. ![Curso em Video](www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+Ministrado pelo professor **Gustavo Guanabara**. [Curso em Video](www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 
