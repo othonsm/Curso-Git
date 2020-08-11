@@ -1,4 +1,4 @@
-# Curso de Git e GitHub
+# Curso de Git e GitHub :clipboard:
 ***
 
 ![](https://github.com/othonsm/Curso-Git/blob/master/image/git.png)
